@@ -16,21 +16,26 @@
 }
 
 .status {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 .restart {
-  margin-top: 10px;
+  background-color: yellowgreen;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 12px;
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #e6e7d5;
+  border: 2px solid #10347e;
   float: left;
   font-size: 24px;
   font-weight: bold;
-  line-height: 34px;
-  height: 34px;
+  line-height: 40px;
+  height: 40px;
+  width: 40px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
